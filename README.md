@@ -33,7 +33,7 @@ I am a passionate **Full-Stack MERN Developer** and **AI Integrator** with a bac
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ali-salhab-45110717a/](https://www.linkedin.com/in/ali-salhab-45110717a/)
+- 💼 **LinkedIn:** [www.linkedin.com/in/aly-salhab-0519b4417](www.linkedin.com/in/aly-salhab-0519b4417)
 - 🏢 **XING:** [https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon](https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon)
-- 📧 **Email:** [alisalhab258@gmail.com](mailto:alisalhab258@gmail.com)
-- 💬 **WhatsApp:** [+963934029909](https://wa.me/963934029909)
+- 📧 **Email:** [me@alisalhab.com](mailto:me@alisalhab.com)
+- 💬 **WhatsApp:** [+491773353489](https://wa.me/+491773353489)
