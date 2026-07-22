@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Salhab 👋
 
-I am a passionate **Full-Stack MERN Developer** and **AI Integrator** with a background in Information Technology. I specialize in building scalable web and mobile applications, combining modern full-stack architectures with generative AI capabilities like **LangChain**.
+I am a passionate **Full-Stack  Developer** and **AI Integrator** with a background in Information Technology. I specialize in building scalable web and mobile applications, combining modern full-stack architectures with generative AI capabilities like **LangChain**.
 
 ---
 
