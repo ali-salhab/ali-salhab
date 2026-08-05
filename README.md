@@ -37,4 +37,4 @@ I am a passionate **Full-Stack  Developer** and **AI Integrator** with a backgro
 - 🏢 **XING:** [https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon](https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon)
 - 📧 **Email:** [me@alisalhab.com](mailto:me@alisalhab.com)
 - 💬 **WhatsApp:** [+491773353489](https://wa.me/+491773353489)
-- **Website;** http://alisalhab.com
+- **Website** http://alisalhab.com
