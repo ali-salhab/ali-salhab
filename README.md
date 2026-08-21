@@ -33,7 +33,7 @@ I am a passionate **Full-Stack  Developer** and **AI Integrator** with a backgro
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/aly-salhab-0519b4417?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/aly-salhab-0519b4417?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:**[https://www.linkedin.com/in/ali-salhab-0519b4417/]
 - 🏢 **XING:** [https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon](https://www.xing.com/profile/Ali_Salhab085896/web_profiles?nwt_nav=profile_icon)
 - 📧 **Email:** [me@alisalhab.com](mailto:me@alisalhab.com)
 - 💬 **WhatsApp:** [+491773353489](https://wa.me/+491773353489)
