@@ -9,7 +9,7 @@ Building production-ready **Web, Mobile & B2B SaaS applications** with
 
 📍 Germany &nbsp; • &nbsp;
 🌐 [alisalhab.com](https://alisalhab.com) &nbsp; • &nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/ali-salhab-0519b4417/)
+💼 [LinkedIn](https://www.linkedin.com/in/ali-salhab-vapi/)
 
 </div>
 
