@@ -12,12 +12,12 @@
 <p align="center">
   <a href="https://alisalhab.com"><img src="https://img.shields.io/badge/Portfolio-alisalhab.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ali-salhab-0519b4417/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.xing.com/profile/Ali_Salhab085896"><img src="https://img.shields.io/badge/XING-Profile-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING"/></a>
+  <a href="https://www.xing.com/profile/Ali_Salhab085896"><img src="https://img.shields.io/badge/XING-Profile-006567?style=for-the-badge" alt="XING"/></a>
   <a href="mailto:me@alisalhab.com"><img src="https://img.shields.io/badge/Email-me%40alisalhab.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-salhab&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-salhab.ali-salhab&left_text=Profile%20views&right_color=%232563EB" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=flat-square" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-Germany-111827?style=flat-square" alt="Germany"/>
 </p>
