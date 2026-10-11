@@ -2,7 +2,7 @@
 
 # Hi, I'm Ali Salhab 👋
 
-### Full-Stack Software Developer
+### Full-Stack Software Engineer
 
 I build production-ready **web, mobile, and B2B SaaS applications** with
 **React · Next.js · TypeScript · Node.js · React Native · AI**
@@ -15,13 +15,13 @@ I build production-ready **web, mobile, and B2B SaaS applications** with
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I'm a **Full-Stack Software Developer** with 5+ years of hands-on experience
-building web and mobile applications.
+I'm a **Full-Stack Software Engineer** with 5+ years of hands-on experience
+building scalable web and mobile applications.
 
-I design complete software solutions — from responsive interfaces and backend
-APIs to real-time systems, multi-tenant SaaS architectures,
+I design and deliver complete software solutions — from responsive frontends
+and backend APIs to real-time systems, multi-tenant SaaS platforms,
 authentication, databases, and AI integrations.
 
 I hold a **B.Sc. in Information Technology** with a specialization in
@@ -40,16 +40,16 @@ and software engineering** opportunities.
 to integrate real-time customer communication and AI-powered support directly
 into their websites.
 
-**Highlights**
+**Key Contributions / Highlights**
 
-- 🏢 Multi-tenant organization architecture
-- 💬 Real-time customer conversations
-- 🤖 AI-powered support workflows
-- 🎙️ Voice AI integration with Vapi
-- 🧩 Embeddable customer communication widget
-- 🔐 Organization-based authentication & authorization
-- ⚙️ Configurable integrations and widget settings
-- 📦 Scalable Turborepo monorepo architecture
+- 🏢 Designed multi-tenant organization architecture
+- 💬 Built real-time customer conversation flows
+- 🤖 Implemented AI-powered support workflows
+- 🎙️ Integrated Voice AI with Vapi
+- 🧩 Developed an embeddable customer communication widget
+- 🔐 Implemented organization-based authentication & authorization
+- ⚙️ Built configurable integrations and widget settings
+- 📦 Structured the codebase as a scalable Turborepo monorepo
 
 **Tech Stack**
 
@@ -65,6 +65,7 @@ into their websites.
 ### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -104,7 +105,7 @@ into their websites.
 ## 💼 What I Build
 
 - **B2B SaaS platforms** with multi-tenant architectures
-- **Full-stack web applications** with React, Next.js, and Node.js
+- **Scalable full-stack web applications** with React, Next.js, and Node.js
 - **Mobile applications** with React Native / Expo
 - **REST APIs** and backend services
 - **Real-time systems** using Socket.IO and WebRTC
@@ -136,7 +137,7 @@ into their websites.
 
 ## 🌐 Let's Connect
 
-I'm open to **full-stack, software development, frontend, backend, and
+I'm open to **full-stack, software engineering, frontend, backend, and
 web/mobile development** opportunities in Germany.
 
 🌐 **Portfolio:** [alisalhab.com](https://alisalhab.com)  
