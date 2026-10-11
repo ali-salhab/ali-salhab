@@ -4,12 +4,12 @@
 
 ### Full-Stack Software Developer
 
-Building production-ready **Web, Mobile & B2B SaaS applications** with  
+I build production-ready **web, mobile, and B2B SaaS applications** with
 **React · Next.js · TypeScript · Node.js · React Native · AI**
 
 📍 Germany &nbsp; • &nbsp;
 🌐 [alisalhab.com](https://alisalhab.com) &nbsp; • &nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/ali-salhab-vapi/)
+💼 [LinkedIn](https://www.linkedin.com/in/ali-salhab-0519b4417/)
 
 </div>
 
@@ -17,18 +17,18 @@ Building production-ready **Web, Mobile & B2B SaaS applications** with
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** with 5+ years of project-based
-experience building web and mobile applications.
+I'm a **Full-Stack Software Developer** with 5+ years of hands-on experience
+building web and mobile applications.
 
-My work focuses on designing complete software solutions — from responsive
-interfaces and backend APIs to real-time systems, multi-tenant SaaS
-architectures, authentication, databases, and AI integrations.
+I design complete software solutions — from responsive interfaces and backend
+APIs to real-time systems, multi-tenant SaaS architectures,
+authentication, databases, and AI integrations.
 
-I hold a **B.Sc. in Information Technology with a specialization in
-Artificial Intelligence & Natural Language Processing**.
+I hold a **B.Sc. in Information Technology** with a specialization in
+**Artificial Intelligence & Natural Language Processing**.
 
-Currently based in **Germany** and open to opportunities in
-**Full-Stack, Frontend, Backend, Web, Mobile and Software Development**.
+Based in **Germany** and open to **full-stack, frontend, backend, web, mobile,
+and software engineering** opportunities.
 
 ---
 
@@ -60,11 +60,10 @@ into their websites.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -89,7 +88,7 @@ into their websites.
 
 ### AI
 
-`LangChain` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Vapi`
+`LangChain` · `RAG` · `Embeddings` · `AI Agents` · `Vapi`
 
 ### Engineering & DevOps
 
@@ -105,12 +104,12 @@ into their websites.
 ## 💼 What I Build
 
 - **B2B SaaS platforms** with multi-tenant architectures
-- **Full-stack web applications** with React, Next.js and Node.js
+- **Full-stack web applications** with React, Next.js, and Node.js
 - **Mobile applications** with React Native / Expo
 - **REST APIs** and backend services
 - **Real-time systems** using Socket.IO and WebRTC
-- **AI-powered applications** using RAG, LangChain and AI agents
-- **Authentication & authorization systems** with JWT, Clerk and RBAC
+- **AI-powered applications** using RAG, LangChain, and AI agents
+- **Authentication & authorization systems** with JWT, Clerk, and RBAC
 - **MongoDB & PostgreSQL** backed applications
 
 ---
@@ -137,8 +136,8 @@ into their websites.
 
 ## 🌐 Let's Connect
 
-I'm open to **Full-Stack, Software Development, Frontend, Backend and
-Web/Mobile Development opportunities in Germany**.
+I'm open to **full-stack, software development, frontend, backend, and
+web/mobile development** opportunities in Germany.
 
 🌐 **Portfolio:** [alisalhab.com](https://alisalhab.com)  
 💼 **LinkedIn:** [Ali Salhab](https://www.linkedin.com/in/ali-salhab-0519b4417/)  
